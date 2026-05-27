@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 # 🌌 About Me
 
@@ -118,9 +118,7 @@ Interests:
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=lakshya157&theme=algolia&no-frame=true&margin-w=12&margin-h=12"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=lakshya157&theme=radical&row=1&column=6&margin-w=15&margin-h=15"/>
 </p>
 
 ---
