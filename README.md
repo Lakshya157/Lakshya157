@@ -68,6 +68,13 @@ Interests:
 
 ---
 
+- 📄 Know about my experiences  
+<a href="https://drive.google.com/file/d/1fQHGuTtFhOwXYXNO6b2db7lwbma6IIM1/view?usp=drivesdk" target="_blank">
+<img src="https://img.shields.io/badge/View%20Resume-00F7FF?style=for-the-badge&logo=googledrive&logoColor=black"/>
+</a>
+
+---
+
 # ⚔️ Tech Arsenal
 
 <img src="https://skillicons.dev/icons?i=java,spring,python,cpp,linux,mysql,opencv,pytorch,tensorflow,gcp,git,github,html,css&perline=7"/>
