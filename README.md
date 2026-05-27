@@ -69,11 +69,7 @@ Interests:
 
 # ⚔️ Tech Arsenal
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,python,cpp,linux,mysql,git,github,html,css,js,react,opencv,tensorflow,pytorch,docker,gcp&perline=8"/>
-
-</p>
+<img src="https://skillicons.dev/icons?i=java,spring,python,cpp,linux,mysql,opencv,pytorch,tensorflow,gcp,git,github,html,css&perline=7"/>
 
 ---
 
